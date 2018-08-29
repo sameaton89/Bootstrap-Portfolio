@@ -125,6 +125,7 @@ footer {
     margin: 5px;
     clear: both;
     color: #fff;
+    display: inline-block;
 }
 
 .work h3 {
